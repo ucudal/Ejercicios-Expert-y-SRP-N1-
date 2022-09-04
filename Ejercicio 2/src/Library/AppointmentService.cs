@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Text;
-
+// El codigo pide informacion de varios sectores en lugar de dividirlo
+// Aparte, no guarda nada de informacion
 namespace Library
 {
     public class AppointmentService
